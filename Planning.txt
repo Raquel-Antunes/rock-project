@@ -1,0 +1,17 @@
+1.Objetivo final:
+-Criar o jogo Rock, Paper, Scissors
+
+2. Data de Entrega:  definir após atualização do github
+(Definir no Ig quando irei mostrar tal objetivo)
+
+3. Consumir 1 hora de conteudo por dia 
+    -Fazer exercicios
+    -Faça projetos
+   -Pesquisar no google por exercicios / projetos
+
+4. Documentar a evolução
+     - Colocar exercicios e projeto no git+github
+     - Realizar compartilhamentos parcias no LinkedIn
+
+Bônus: escrever como fez aquilo (artigo/blog)
+

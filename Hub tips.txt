@@ -1,0 +1,14 @@
+Dicas comandos github
+
+git init - vincula o diretorio origem do codigo
+git status - mostra arqs que estão ou não no controle de versão
+git
+
+git add - add arquivo (1 arq por vez)
+git add . - (git add+espaço+ponto) adicionar varios arquivos dde uma só vez
+
+git commit -m "(nome da versão)" - serve para criar as versões do código
+git commit -m "commit inicial" -é a primeira versão para config
+-seguir ent comandos para configurar user email and user name.
+
+git remote add origin - add alteraçoes do code no github (link )
